@@ -7,14 +7,40 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    height: 460px;
-    width: 460px;
+    height: 370px;
+    width: 370px;
 }
 
-.item{
-    height: 150px;
-    width: 150px;
+.cell{
+    height: 120px;
+    width: 120px;
     border: 1px solid black;
     background-color: lightblue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 50px;
 }
 
+.result{
+    height: 40px;
+    margin: 20px;
+    text-align: center;
+    color: darkred;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.btnPlay{
+    height: 40px;
+    width: 100px;
+    background-color: olive;
+    margin: 15px;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

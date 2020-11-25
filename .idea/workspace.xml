@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1c9d90f-036b-40e1-b40b-2eb1afdb59d9" name="Default Changelist" comment="" />
+    <list default="true" id="e1c9d90f-036b-40e1-b40b-2eb1afdb59d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../movie/script.js" root0="SKIP_INSPECTION" />
   </component>
@@ -31,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cookie/script.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie/script.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -45,7 +56,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606295058233</updated>
-      <workItem from="1606295059266" duration="3035000" />
+      <workItem from="1606295059266" duration="19451000" />
+      <workItem from="1606316105111" duration="20000" />
+      <workItem from="1606331960524" duration="9602000" />
     </task>
     <servers />
   </component>
@@ -53,10 +66,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1271" y="-805" key="FileChooserDialogImpl" timestamp="1606297412127">
+    <state x="1271" y="-805" key="FileChooserDialogImpl" timestamp="1606304331886">
       <screen x="531" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1271" y="-805" key="FileChooserDialogImpl/0.0.1280.680/531.-1080.1920.1040@531.-1080.1920.1040" timestamp="1606297412127" />
+    <state x="1271" y="-805" key="FileChooserDialogImpl/0.0.1280.680/531.-1080.1920.1040@531.-1080.1920.1040" timestamp="1606304331886" />
     <state x="992" y="-915" key="SettingsEditor" timestamp="1606295072721">
       <screen x="531" y="-1080" width="1920" height="1040" />
     </state>
